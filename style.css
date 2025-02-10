@@ -11,6 +11,7 @@ body{
     height: 100vh;
     flex-direction: column;
     font-family: "Work Sans";
+    overflow: scroll;
 
 }
 
@@ -150,5 +151,12 @@ h2:hover{
         width: 300px;
         padding: 20px;
     
+    }
+    h1{
+        
+        font-size: 35px;
+    }
+    h2{
+        font-size: 16px;
     }
 }
