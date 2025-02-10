@@ -37,6 +37,7 @@ body{
 .attribution{
     position: absolute;
     bottom: 0;
+    margin-top: 20px;
 }
 
 .main{
